@@ -1,0 +1,8 @@
+
+[discord]
+bot_token = ""
+guild_id = ""
+remove_commands = true
+
+[openai]
+secret_key = ""
